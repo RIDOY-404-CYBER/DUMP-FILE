@@ -21,9 +21,9 @@ os.system('xdg-open https://facebook.com/groups/770617227293870/')
 
 
 
-import RDMP
+import DUMP
  
 
 
-RDMP.login()
+DUMP.login()
 
