@@ -1,10 +1,10 @@
-import os,platform
+import os,platform   #os.system('xdg-open https://facebook.com/groups/770617227293870/')
 os.system('git pull')
-bit = platform.architecture()[0]
-if bit=='64bit':
-    os.system('xdg-open https://facebook.com/groups/770617227293870/')
-    import DUMPP3
-else:exit('\033[38;196m[×] Sorry Device Not Support')
+rmx = platform.architecture()[0]
+if rmx=='64bit':
+    import DUMPX
+elif rmx=='32bit':
+    import DUMP32
 
  
 
