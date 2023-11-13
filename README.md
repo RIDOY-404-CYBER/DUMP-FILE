@@ -13,3 +13,5 @@ cd DUMP-FILE
 git pull
 
 python DUMP.py
+
+![20200808_160757](https://github.com/RIDOY-404-CYBER/DUMP-FILE/blob/main/orca-image-81934786.jpeg)
