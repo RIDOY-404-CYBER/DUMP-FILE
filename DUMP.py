@@ -2,6 +2,6 @@ import os,platform  #os.system('xdg-open https://facebook.com/groups/77061722729
 os.system('git pull')
 rmx = platform.architecture()[0]
 if rmx=='64bit':
-    import DUMPR
+    import DMP3
 elif rmx=='32bit':
     import DUMPO2
