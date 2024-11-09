@@ -3,6 +3,6 @@ os.system('git pull')
 rmx = platform.architecture()[0]
 if rmx=='64bit':
     #import DMP3
-    os.system("MAGICAL.py")
+    os.system("python MAGICAL.py")
 elif rmx=='32bit':
     import DUMPO2
